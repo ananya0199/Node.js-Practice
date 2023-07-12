@@ -1,0 +1,27 @@
+﻿NODE JS:
+
+Back tracking 
+res to req
+
+remote debugging
+
+logging – check logs
+
+
+Error handling – try catch
+
+node inspect mode
+inspect break
+profiling tools
+
+when one function is dependent on other function it is callback
+
+
+callback abstraction – for code modularity
+
+callback hell – solution -promises.
+Promise is to handle asynchronous operations.
+
+Promise.all
+promise.any
+async await
